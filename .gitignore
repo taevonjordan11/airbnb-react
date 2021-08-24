@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-next.config.js
+
 
 # testing
 /coverage
@@ -12,6 +12,7 @@ next.config.js
 # next.js
 /.next/
 /out/
+next.config.js/*
 
 # production
 /build
