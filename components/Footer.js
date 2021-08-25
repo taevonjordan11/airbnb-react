@@ -7,7 +7,7 @@ function Footer() {
         <p>News</p>
         <p>Airbnb Plus</p>
         <p>Airbnb Luxe</p>
-        <p>Investors</p>
+        <p>This is not a real site</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
@@ -16,7 +16,7 @@ function Footer() {
         <p>News</p>
         <p>Airbnb Plus</p>
         <p>Airbnb Luxe</p>
-        <p>Investors</p>
+        <p>Airbnb clone created by Taevon Jordan</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
@@ -25,7 +25,7 @@ function Footer() {
         <p>News</p>
         <p>Airbnb Plus</p>
         <p>Airbnb Luxe</p>
-        <p>Investors</p>
+        <p>This is not a real site</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
@@ -34,7 +34,7 @@ function Footer() {
         <p>News</p>
         <p>Airbnb Plus</p>
         <p>Airbnb Luxe</p>
-        <p>Investors</p>
+        <p>Airbnb clone created by Taevon Jordan</p>
       </div>
     </div>
   );
